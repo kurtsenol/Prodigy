@@ -1,0 +1,1 @@
+prodigy ner.manual ner_method blank:en ./dataset.jsonl --label METHOD --patterns ./method_patterns.jsonl
